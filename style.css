@@ -1,0 +1,32 @@
+body {
+    margin: 0 auto;
+    width: 70%;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h1, h2, h3, h4 {
+    font-family: sans-serif;
+    margin-top: 1.5em;
+}
+
+.img_description {
+    font-style: italic;
+}
+
+
+table, th, td {
+    border: 1px;
+    border-style: solid;
+    text-align: center;
+}
+
+figure {
+    float: right;
+}
+
+.row_bold {
+    font-weight: 800;
+}
